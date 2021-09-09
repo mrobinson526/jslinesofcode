@@ -11,5 +11,5 @@
             if (i==0) {
                 str="line"
             };
-        document.write(i + " " + str + " of code in the file, " + i + " " + str + " of code:  " + friendArray[name] + " " + "strikes one out, clears it all out,");
+        console.log(i + " " + str + " of code in the file, " + i + " " + str + " of code:  " + friendArray[name] + " " + "strikes one out, clears it all out,");
         };
